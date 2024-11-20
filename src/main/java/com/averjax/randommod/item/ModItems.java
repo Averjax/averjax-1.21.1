@@ -8,7 +8,7 @@ import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
-// Adding an Item Add a line to ModItems> registerModItems>lang>models.item > textures.item
+// Adding an Item Add a line to ModItems> registerModItems>lang>models.item > textures.item??
 
 public class ModItems {
     public static final Item AVERJAX_ITEM = registerItem("averjax_item", new Item(new Item.Settings()));
